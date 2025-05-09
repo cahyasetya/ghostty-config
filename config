@@ -1,0 +1,14 @@
+background-opacity=0.80
+background-blur=30
+font-family=JetBrains Mono
+font-size=16
+foreground=#c0caf5
+background=#111111
+cursor-style=block
+mouse-hide-while-typing=true
+window-padding-x=15
+window-padding-y=15
+window-theme=dark
+window-inherit-working-directory=true
+keybind=super+shift+r=reload_config
+keybind=super+enter=toggle_fullscreen
